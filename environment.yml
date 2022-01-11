@@ -1,0 +1,10 @@
+name: refinebio
+channels:
+   - conda-forge
+   - bioconda
+   - defaults
+dependencies:
+   - jupyter
+   - pip
+   - pip:
+     - pyrefinebio
