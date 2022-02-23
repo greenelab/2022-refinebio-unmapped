@@ -7,4 +7,4 @@ dependencies:
    - jupyter
    - pip
    - pip:
-     - pyrefinebio
+     - pyrefinebio=0.4.9
